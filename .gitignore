@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# MacOS folder attributes
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.swp
